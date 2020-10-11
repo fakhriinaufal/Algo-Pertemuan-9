@@ -13,3 +13,5 @@ print("Luas lahan adalah ", luasLahan, "meter persegi")
 print("Jumlah bibit yang dibutuhkan adalah ", jumlahBibit)
 print("Pupuk yang dibutuhkan dalam sekali pemupukan adalah ", kebutuhanPupuk, "gram")
 print("pupuk yang dibutuhkan sampai panen adalah ", kebutuhanPupuk * 4)
+
+#ini komentar
